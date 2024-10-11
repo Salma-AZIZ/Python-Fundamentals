@@ -1,0 +1,1 @@
+Bienvenue dans ce fichier texte ! Ceci est un test pour vérifier que votre programme fonctionne correctement. Bonne lecture et bon codage !
